@@ -2,7 +2,6 @@
 # My Excel Certificate
 ![IMG-20240729-WA0002](https://github.com/user-attachments/assets/5f10b973-c44f-48fc-9b66-3d39cb7f2758)
 
-
 # STUDENT INDUCTION PROGRAM
 
 | Date | Resorce Person | Description |
